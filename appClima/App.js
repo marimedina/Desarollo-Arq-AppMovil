@@ -1,6 +1,6 @@
 import React from 'react';
 //import { Text, StyleSheet, View, FlatList } from 'react-native';
-import Formulario from './components/formulario';
+import Formulario from './components/Formulario';
 
 const App = () => {
   return(
